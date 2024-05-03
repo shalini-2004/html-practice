@@ -1,0 +1,37 @@
+body{
+    background-image: url(https://img5.goodfon.com/wallpaper/big/e/eb/5k-hd-background-fruit-strawberry-berry-red-food-blur-bokeh.jpg);
+    /* background-color: brown; */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}    
+.box{
+    border: 5px solid;
+    border-color: rgb(197, 194, 194);
+    height: 30%;
+    width: 25%;
+    margin: 2%;
+    padding:5px;
+    border-radius:2%;
+    background-color:rgb(228, 223, 223);
+}
+.img{
+    height:200px;
+    width: 100%;
+    border-radius: 2%;
+}
+.big-box{
+    display: flex;
+    margin-top: 20px;
+}
+.price{
+    font-size: 20px;
+    padding-right:5px;
+    float: right;
+}
+.hr{
+    border-top:1px dashed;
+}
+.foot{
+    margin-left: 10%;
+}
